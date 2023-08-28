@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 header>p {
   border-bottom: 2px solid gray;
   text-align: center;
